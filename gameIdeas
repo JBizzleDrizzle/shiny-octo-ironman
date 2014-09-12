@@ -38,6 +38,7 @@ hospital: requires workers, heal troops
 tavern: requires workers, trade goods, recruit people, learn info
 barracks: increases army limit
 vault: store items
+workers: build buildings
 lumber mill: requires workers, produces wood
 walls/defensive buildings: increases army limit, creates town defense
 
